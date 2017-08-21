@@ -1,0 +1,6 @@
+node_modules/
+built.js
+
+*.crt
+*.key
+*.pem
